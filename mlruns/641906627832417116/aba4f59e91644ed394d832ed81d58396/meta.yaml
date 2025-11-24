@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/utkri/PycharmProjects/mlflow_project/mlruns/641906627832417116/aba4f59e91644ed394d832ed81d58396/artifacts
+end_time: 1764026219247
+entry_point_name: ''
+experiment_id: '641906627832417116'
+lifecycle_stage: active
+run_id: aba4f59e91644ed394d832ed81d58396
+run_name: righteous-trout-846
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764026213915
+status: 3
+tags: []
+user_id: utkri

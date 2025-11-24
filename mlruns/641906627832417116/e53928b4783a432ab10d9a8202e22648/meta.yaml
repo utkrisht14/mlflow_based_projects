@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/utkri/PycharmProjects/mlflow_project/mlruns/641906627832417116/e53928b4783a432ab10d9a8202e22648/artifacts
+end_time: 1764025865439
+entry_point_name: ''
+experiment_id: '641906627832417116'
+lifecycle_stage: active
+run_id: e53928b4783a432ab10d9a8202e22648
+run_name: merciful-perch-989
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764025858711
+status: 3
+tags: []
+user_id: utkri

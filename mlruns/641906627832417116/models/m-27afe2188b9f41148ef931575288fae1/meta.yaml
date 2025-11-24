@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/utkri/PycharmProjects/mlflow_project/mlruns/641906627832417116/models/m-27afe2188b9f41148ef931575288fae1/artifacts
+creation_timestamp: 1764026214005
+experiment_id: '641906627832417116'
+last_updated_timestamp: 1764026219236
+model_id: m-27afe2188b9f41148ef931575288fae1
+model_type: null
+name: mymodel
+source_run_id: aba4f59e91644ed394d832ed81d58396
+status: 2
+status_message: null
